@@ -11,3 +11,6 @@ Kristen Wymer
   cell: 717-668-0355 
   
 
+Alex Scheck
+	email: aschec2@students.towson.edu
+	cell : 443-564-6138
