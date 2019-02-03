@@ -14,3 +14,7 @@ Kristen Wymer
 Alex Scheck
 	email: aschec2@students.towson.edu
 	cell : 443-564-6138
+	
+Richard Abell
+   email: rabell1@students.towson.edu 
+   cell: 301-247-02×4
